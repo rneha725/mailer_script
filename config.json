@@ -1,0 +1,15 @@
+{
+    "smtp": {
+        "user": "",
+        "password": "",
+        "host": "smtp.gmail.com",
+        "ssl": true
+    },
+    "email": {
+        "text": "i hope this works",
+        "from": "",
+        "to": "",
+        "cc": "",
+        "subject": "testing emailjs"
+    }
+}

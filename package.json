@@ -1,0 +1,11 @@
+{
+  "name": "Mailer",
+  "version": "1.0.0",
+  "description": "Sending email to list of email addresses provided in an excel sheet.",
+  "main": "index.js",
+  "author": "Neha Rani <rneha725@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "emailjs": "^2.2.0"
+  }
+}
